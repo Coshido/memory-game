@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e798b711.css",
-    "main.js": "/react-gh-pages/static/js/main.53beb337.js",
-    "static/media/Roboto-Regular.ttf": "/react-gh-pages/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e798b711.css.map": "/react-gh-pages/static/css/main.e798b711.css.map",
-    "main.53beb337.js.map": "/react-gh-pages/static/js/main.53beb337.js.map"
+    "main.css": "/memory-app/static/css/main.2a86eea0.css",
+    "main.js": "/memory-app/static/js/main.23662a16.js",
+    "static/media/Roboto-Regular.ttf": "/memory-app/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/memory-app/index.html",
+    "main.2a86eea0.css.map": "/memory-app/static/css/main.2a86eea0.css.map",
+    "main.23662a16.js.map": "/memory-app/static/js/main.23662a16.js.map"
   },
   "entrypoints": [
-    "static/css/main.e798b711.css",
-    "static/js/main.53beb337.js"
+    "static/css/main.2a86eea0.css",
+    "static/js/main.23662a16.js"
   ]
 }
