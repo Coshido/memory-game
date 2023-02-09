@@ -3,7 +3,13 @@ import React, { useState } from "react";
 function Header(props) {
   return (
     <header>
-      <p className="header-title">Adventure Time Memory Game!</p>
+      <img
+        src={process.env.PUBLIC_URL + "/Media/Adventure-Time-Logo.png"}
+        className="header-image"
+      />
+
+      <p className="header-title">Memory Game</p>
+
       <div>
         <p className="best-score">Best Score: {props.bestScore}</p>
         <p className="current-score">Current Score:{props.score}</p>
