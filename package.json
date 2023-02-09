@@ -1,7 +1,7 @@
 {
   "name": "memory-game",
   "version": "0.1.0",
-  "homepage": "http://coshido.github.io/memory-app",
+  "homepage": "http://coshido.github.io/memory-game",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
