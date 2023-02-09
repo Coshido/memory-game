@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/memory-app/static/css/main.2a86eea0.css",
-    "main.js": "/memory-app/static/js/main.23662a16.js",
-    "static/media/Roboto-Regular.ttf": "/memory-app/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "index.html": "/memory-app/index.html",
-    "main.2a86eea0.css.map": "/memory-app/static/css/main.2a86eea0.css.map",
-    "main.23662a16.js.map": "/memory-app/static/js/main.23662a16.js.map"
+    "main.css": "/memory-game/static/css/main.a042bb2f.css",
+    "main.js": "/memory-game/static/js/main.dc3ffacb.js",
+    "static/media/Roboto-Regular.ttf": "/memory-game/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/memory-game/index.html",
+    "main.a042bb2f.css.map": "/memory-game/static/css/main.a042bb2f.css.map",
+    "main.dc3ffacb.js.map": "/memory-game/static/js/main.dc3ffacb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a86eea0.css",
-    "static/js/main.23662a16.js"
+    "static/css/main.a042bb2f.css",
+    "static/js/main.dc3ffacb.js"
   ]
 }
