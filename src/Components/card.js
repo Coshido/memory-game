@@ -5,6 +5,7 @@ function Card(props) {
   return (
     <div onClick={props.clickedCheck} className="card-div">
       <img src={process.env.PUBLIC_URL + props.image} className="image" />
+      <p>{props.cardName}</p>
     </div>
   );
 }
