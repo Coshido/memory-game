@@ -29,24 +29,39 @@ header {
   display: flex;
   justify-content: space-between;
   gap: 20px;
-  padding: 20px;
+  padding: 0 20px;
   align-items: center;
+  box-shadow: 0px 3px 2px -2px #2d6a4f;
 }
-header > div {
-  display: flex;
-  gap: 20px;
-}
+
 .header-title {
-  font-size: 32px;
+  font-size: 48px;
+}
+.header-image {
+  margin: 5px 0;
+  height: 100px;
 }
 .image {
   height: 300px;
   width: 150px;
   padding: 20px;
+
+  object-fit: contain;
+}
+.card-div {
   border: 1px solid black;
   border-radius: 16px;
   background-color: #d9f2b4;
-  object-fit: contain;
+  transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-div:hover {
+  transform: scale(1.07);
+}
+.card-div > p {
+  text-align: center;
 }
 .card-wrapper {
   padding: 20px;
@@ -54,6 +69,7 @@ header > div {
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 20px;
+  flex: 1;
 }
 footer {
   width: 100%;
