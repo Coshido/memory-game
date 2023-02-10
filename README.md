@@ -10,12 +10,12 @@
 
 ## Getting Started
 
-<blockquote>
+<pre>
  git clone git@github.com:Coshido/memory-game.git
  cd memory-game
  npm install
  npm run start
-</blockquote>
+</pre>
 
 ## Built With
 
