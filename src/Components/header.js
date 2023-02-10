@@ -8,7 +8,6 @@ function Header(props) {
           src={process.env.PUBLIC_URL + "/Media/Adventure-Time-Logo.png"}
           className="header-image"
         />
-
         <p className="header-title">Memory Game</p>
       </div>
       <div>
